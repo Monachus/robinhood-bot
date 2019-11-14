@@ -1,0 +1,13 @@
+logging:
+  level:
+    root: DEBUG
+    okhttp3: INFO
+    javax: INFO
+    sun.rmi: INFO
+    org.apache.tomcat: INFO
+    org.springframework.web: DEBUG
+    
+spring:
+  datasource:
+    tomcat:
+      jmx-enabled: false

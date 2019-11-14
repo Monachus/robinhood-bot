@@ -1,0 +1,2 @@
+rootProject.name = 'robinhood'
+include 'Unofficial-Robinhood-Api'

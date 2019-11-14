@@ -1,0 +1,3 @@
+[submodule "Unofficial-Robinhood-Api"]
+	path = Unofficial-Robinhood-Api
+	url = https://github.com/Monachus/Unofficial-Robinhood-Api.git
